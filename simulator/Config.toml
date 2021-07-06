@@ -1,0 +1,7 @@
+[ballerina.observe]
+metricsEnabled=true
+metricsReporter="prometheus"
+
+[ballerinax.prometheus]
+host="127.0.0.1"  # Optional Configuration. Default value is localhost
+port=9797

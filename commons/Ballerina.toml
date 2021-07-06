@@ -1,0 +1,7 @@
+[build-options]
+observabilityIncluded = true
+  
+[package]
+org = "madusha"
+name = "commons"
+version = "0.1.0"
