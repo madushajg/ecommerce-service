@@ -1,5 +1,10 @@
+[[platform.java11.dependency]]
+artifactId = "mysql-connector-java"
+version = "8.0.18"
+groupId = "mysql"
+
 [build-options]
 observabilityIncluded = true
 
-[[platform.java11.dependency]]
-path = "../mysql-connector-java-8.0.18.jar"
+# [[platform.java11.dependency]]
+# path = "/Users/madushagunasekara/bal-obs-issues/ecommerce/mysql-connector-java-8.0.18.jar"

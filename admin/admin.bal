@@ -1,6 +1,6 @@
 import ballerina/http;
-import ballerina/url;
 import madusha/commons as x;
+import ballerina/io;
 
 final http:Client cartClient = check new("http://localhost:8080/ShoppingCart");
 final http:Client orderMgtClient = check new("http://localhost:8081/OrderMgt");
@@ -12,8 +12,10 @@ listener http:Listener ep = new (8085);
 
 service /Admin on ep {
 
-    resource function get invsearch(http:Caller caller, http:Request request, string query) returns error? {
-        http:Response resp = check invClient->get("/search/" + <@untainted> check url:encode(query, "UTF-8"));
+    resource function get invsearch/[string query](http:Caller caller, http:Request request) returns error? {
+        io:println("Reached get invsearch. Query: " + query);
+        json resp = check invClient->get("/search/" + query, targetType = json);
+        io:println(resp.toJsonString());
         check caller->respond(resp);
     }
 

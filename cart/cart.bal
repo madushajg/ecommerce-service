@@ -4,9 +4,9 @@ import ballerinax/java.jdbc;
 import ballerina/sql;
 
 final jdbc:Client dbClient = check new (url =  "jdbc:mysql://localhost:3306/ECOM_DB?serverTimezone=UTC", 
-                             user = "root",
-                             password = "root"
-                             ); 
+                                        user = "root",
+                                        password = "root"
+                                    ); 
 
 service /ShoppingCart on new http:Listener(8080) {
 
