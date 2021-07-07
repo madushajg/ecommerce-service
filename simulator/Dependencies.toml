@@ -1,0 +1,7 @@
+[[dependency]]
+org = "madusha"
+name = "commons"
+version = "0.1.0"
+repository = "local"
+
+

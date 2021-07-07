@@ -25,15 +25,17 @@ service /ShoppingCart on new http:Listener(8080) {
         stream<record{}, error> rs = dbClient->query(`SELECT inventory_id as invId, quantity FROM ECOM_ITEM WHERE account_id = ${accountId}`, x:Item);
         stream<x:Item, sql:Error> itemStream = <stream<x:Item, sql:Error>>rs;
 
+        json[] j = [];
         int invId = 0;
         int quantity = 0;
 
         error? e = itemStream.forEach(function(x:Item item) {
             invId = item.invId;
             quantity = item.quantity;
+            j.push({invId: invId, quantity: quantity});
         });
 
-        check caller->respond({invId: invId, quantity: quantity});
+        check caller->respond(j);
     }
 
     resource function delete items/[string accountId](http:Caller caller, http:Request request) returns error? {

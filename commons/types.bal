@@ -19,3 +19,8 @@ public type Delivery record {
 public type Items record {
     Item[] items;
 };
+
+public type Description record {
+    int id;
+    string description;
+};
