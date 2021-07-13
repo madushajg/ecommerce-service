@@ -11,10 +11,10 @@ service /OrderMgt on new http:Listener(8081) {
         consumes: ["application/json"]
     }
     isolated resource function post 'order(http:Caller caller, @http:Payload x:Order o) returns error? {
-        log:printInfo("Reached post order", Order = o);
+        log:printDebug("Reached post order", Order = o);
 
         string orderId = uuid:createType1AsString();
-        log:printInfo("OrderId created", orderId = orderId);
+        log:printDebug("OrderId created", orderId = orderId);
 
         lock {
             orderMap[orderId] = o.clone();
@@ -23,7 +23,7 @@ service /OrderMgt on new http:Listener(8081) {
     }
 
     isolated resource function get 'order/[string orderId](http:Caller caller, http:Request request) returns error? {
-        log:printInfo("Reached get order", orderId = orderId);
+        log:printDebug("Reached get order", orderId = orderId);
         lock {
             check caller->respond(orderMap[orderId].toJson());
         }

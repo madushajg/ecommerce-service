@@ -11,12 +11,12 @@ service /Billing on new http:Listener(8082) {
         consumes: ["application/json"]
     }
     resource function post payment(http:Caller caller, @http:Payload x:Payment payment) returns error? {
-        log:printInfo("Reached post payment", payment = payment);
+        log:printDebug("Reached post payment", payment = payment);
         http:Response resp = check orderMgtClient->get("/order/" + payment.orderId);
         json payload = check resp.getJsonPayload();
         x:Order 'order = check payload.cloneWithType(x:Order);
         string receiptNumber = uuid:createType1AsString();
-        log:printInfo("receiptNumber created", receiptNumber = receiptNumber);
+        log:printDebug("receiptNumber created", receiptNumber = receiptNumber);
         check caller->respond(receiptNumber);
     }
 }

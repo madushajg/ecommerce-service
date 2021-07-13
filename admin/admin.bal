@@ -1,6 +1,5 @@
 import ballerina/http;
 import madusha/commons as x;
-import ballerina/io;
 import ballerina/log;
 
 final http:Client cartClient = check new("http://localhost:8080/ShoppingCart");
@@ -14,9 +13,8 @@ listener http:Listener ep = new (8085);
 service /Admin on ep {
 
     resource function get invsearch/[string query](http:Caller caller, http:Request request) returns error? {
-        log:printInfo("Reached get invsearch", Query = query);
+        log:printDebug("Reached get invsearch", Query = query);
         json resp = check invClient->get("/search/" + query, targetType = json);
-        io:println(resp.toJsonString());
         check caller->respond(resp);
     }
 
@@ -24,18 +22,16 @@ service /Admin on ep {
         consumes: ["application/json"]
     }
     resource function post cartitems/[string accountId](http:Caller caller, @http:Payload x:Item item) returns error? {
-        log:printInfo("Reached post cartitems", accountId = accountId, item = item);
+        log:printDebug("Reached post cartitems", accountId = accountId, item = item);
         http:Response resp = check cartClient->post("/items/" + accountId, item.toJson());
         check caller->respond(resp);
     }
 
     resource function get checkout/[int accountId](http:Caller caller, http:Request request) returns @tainted error? {
-        log:printInfo("Reached get checkout", accountId = accountId);
+        log:printDebug("Reached get checkout", accountId = accountId);
         http:Response resp = check cartClient->get("/items/" + accountId.toString());
         json j = check resp.getJsonPayload();
-        log:printInfo("payload from get cart", payload = j);
         x:Items items = check j.cloneWithType(x:Items);
-        log:printInfo("items from get cart", items = items.toString());
         if items.length() == 0 {
             http:Response respx = new;
             respx.statusCode = 400;

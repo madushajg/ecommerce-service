@@ -20,7 +20,7 @@ service /Inventory on new http:Listener(8084) {
 
     resource function get search/[string query](http:Caller caller, http:Request request) returns @tainted error? {
 
-        log:printInfo("Reached get search", Query = query);
+        log:printDebug("Reached get search", Query = query);
         string q = string `SELECT id, description FROM ECOM_INVENTORY WHERE description LIKE '%${query}%'`;
         stream<record{}, error> resultStream = dbClient->query(q);
 

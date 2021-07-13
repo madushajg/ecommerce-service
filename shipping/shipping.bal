@@ -12,13 +12,13 @@ service /Shipping on new http:Listener(8083) {
     }
     resource function post delivery(http:Caller caller, @http:Payload x:Delivery delivery) returns error? {
 
-        log:printInfo("Reached post delivery", delivery = delivery);
+        log:printDebug("Reached post delivery", delivery = delivery);
         json resp = check ordermgtClient->get("/order/" + delivery.orderId, targetType = json);
 
         x:Order 'order = check resp.cloneWithType(x:Order);
 
         string trackingNumber = uuid:createType1AsString();
-        log:printInfo("trackingNumber created", trackingNumber = trackingNumber);
+        log:printDebug("trackingNumber created", trackingNumber = trackingNumber);
         check caller->respond(trackingNumber);
     }
 
