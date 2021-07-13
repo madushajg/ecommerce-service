@@ -21,6 +21,7 @@ service /Shipping on new http:Listener(8083) {
         string trackingNumber = uuid:createType1AsString();
         log:printDebug("trackingNumber created", trackingNumber = trackingNumber);
         check caller->respond(trackingNumber);
+        log:printInfo("Shipping - OrderId: " + delivery.orderId + " TrackingNumber: " + trackingNumber);
     }
 
 }

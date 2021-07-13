@@ -1,0 +1,2124 @@
+Processes: 558 total, 4 running, 554 sleeping, 3512 threads 
+2021/07/13 20:01:08
+Load Avg: 3.57, 2.49, 2.27 
+CPU usage: 38.39% user, 13.16% sys, 48.44% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3453M wired), 53M unused.
+VM: 4608G vsize, 2305M framework vsize, 1867038878(0) swapins, 1884184716(0) swapouts.
+Networks: packets: 98259791/71G in, 132891254/49G out.
+Disks: 96537940/8172G read, 91762532/7867G written.
+
+PID    COMMAND %CPU TIME    
+39739  java    0.0  00:19.86
+39745  java    0.0  00:34.29
+39747  java    0.0  00:28.51
+39748  java    0.0  00:37.81
+39751  java    0.0  00:18.58
+39755  java    0.0  00:30.89
+Processes: 558 total, 4 running, 554 sleeping, 3523 threads 
+2021/07/13 20:01:09
+Load Avg: 3.57, 2.49, 2.27 
+CPU usage: 12.15% user, 9.42% sys, 78.41% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3453M wired), 80M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867062889(24011) swapins, 1884212412(27696) swapouts.
+Networks: packets: 98260957/71G in, 132892420/49G out.
+Disks: 96538394/8172G read, 91763088/7868G written.
+
+PID    COMMAND %CPU TIME    
+39739  java    5.2  00:20.02
+39745  java    27.3 00:35.13
+39747  java    3.6  00:28.62
+39748  java    2.9  00:37.90
+39751  java    3.6  00:18.69
+39755  java    8.9  00:31.16
+Processes: 558 total, 5 running, 553 sleeping, 3523 threads 
+2021/07/13 20:01:10
+Load Avg: 3.57, 2.49, 2.27 
+CPU usage: 16.44% user, 4.16% sys, 79.38% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3452M wired), 49M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867066399(3510) swapins, 1884212412(0) swapouts.
+Networks: packets: 98261610/71G in, 132893072/49G out.
+Disks: 96538461/8172G read, 91763718/7868G written.
+
+PID    COMMAND %CPU TIME    
+39739  java    7.1  00:20.10
+39745  java    41.4 00:35.59
+39747  java    5.9  00:28.68
+39748  java    70.2 00:38.69
+39751  java    5.1  00:18.75
+39755  java    44.7 00:31.66
+Processes: 558 total, 5 running, 1 stuck, 552 sleeping, 3509 threads 
+2021/07/13 20:01:11
+Load Avg: 3.61, 2.51, 2.28 
+CPU usage: 29.84% user, 6.6% sys, 64.8% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3453M wired), 71M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867071323(4924) swapins, 1884227679(15267) swapouts.
+Networks: packets: 98262253/71G in, 132893716/49G out.
+Disks: 96538555/8172G read, 91764033/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    33.4  00:20.48
+39745  java    216.0 00:38.01
+39747  java    13.4  00:28.83
+39748  java    23.4  00:38.95
+39751  java    8.0   00:18.84
+39755  java    30.7  00:32.01
+Processes: 558 total, 7 running, 551 sleeping, 3507 threads 
+2021/07/13 20:01:13
+Load Avg: 3.61, 2.51, 2.28 
+CPU usage: 36.86% user, 7.5% sys, 56.8% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3452M wired), 36M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867084407(13084) swapins, 1884231919(4240) swapouts.
+Networks: packets: 98263066/71G in, 132894530/49G out.
+Disks: 96538817/8172G read, 91764182/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    41.7  00:20.96
+39745  java    225.3 00:40.61
+39747  java    15.4  00:29.01
+39748  java    8.6   00:39.05
+39751  java    12.4  00:18.98
+39755  java    128.9 00:33.50
+Processes: 557 total, 5 running, 552 sleeping, 3503 threads 
+2021/07/13 20:01:14
+Load Avg: 3.61, 2.51, 2.28 
+CPU usage: 30.0% user, 6.3% sys, 63.96% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671080 total, 8929M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3451M wired), 43M unused.
+VM: 4600G vsize, 2305M framework vsize, 1867088686(4279) swapins, 1884240518(8599) swapouts.
+Networks: packets: 98263798/71G in, 132895260/49G out.
+Disks: 96538905/8172G read, 91764369/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    16.3  00:21.16
+39745  java    222.2 00:43.31
+39747  java    13.0  00:29.17
+39748  java    18.6  00:39.28
+39751  java    12.4  00:19.13
+39755  java    32.4  00:33.89
+Processes: 558 total, 4 running, 554 sleeping, 3499 threads 
+2021/07/13 20:01:15
+Load Avg: 3.61, 2.51, 2.28 
+CPU usage: 14.99% user, 9.57% sys, 75.42% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3451M wired), 123M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867122971(34285) swapins, 1884272856(32338) swapouts.
+Networks: packets: 98265035/71G in, 132896496/49G out.
+Disks: 96539493/8172G read, 91764937/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    10.3  00:21.28
+39745  java    73.8  00:44.16
+39747  java    6.0   00:29.24
+39748  java    5.7   00:39.34
+39751  java    8.0   00:19.22
+39755  java    25.9  00:34.19
+Processes: 558 total, 6 running, 552 sleeping, 3510 threads 
+2021/07/13 20:01:16
+Load Avg: 3.48, 2.50, 2.28 
+CPU usage: 25.83% user, 4.29% sys, 69.86% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3451M wired), 63M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867134979(12008) swapins, 1884272856(0) swapouts.
+Networks: packets: 98265678/71G in, 132897138/49G out.
+Disks: 96539717/8172G read, 91764962/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    22.5  00:21.53
+39745  java    232.3 00:46.77
+39747  java    11.5  00:29.37
+39748  java    9.4   00:39.45
+39751  java    4.9   00:19.28
+39755  java    14.6  00:34.35
+Processes: 558 total, 5 running, 553 sleeping, 3508 threads 
+2021/07/13 20:01:17
+Load Avg: 3.48, 2.50, 2.28 
+CPU usage: 25.79% user, 4.43% sys, 69.76% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3451M wired), 34M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867137470(2491) swapins, 1884272856(0) swapouts.
+Networks: packets: 98266379/71G in, 132897840/49G out.
+Disks: 96539756/8172G read, 91764994/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    11.5  00:21.66
+39745  java    225.3 00:49.34
+39747  java    11.9  00:29.51
+39748  java    11.9  00:39.59
+39751  java    5.4   00:19.34
+39755  java    20.2  00:34.58
+Processes: 558 total, 3 running, 555 sleeping, 3516 threads 
+2021/07/13 20:01:18
+Load Avg: 3.48, 2.50, 2.28 
+CPU usage: 36.13% user, 8.34% sys, 55.51% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671145 total, 8930M resident, 64M private, 1170M shared.
+PhysMem: 16G used (3451M wired), 150M unused.
+VM: 4604G vsize, 2305M framework vsize, 1867145894(8424) swapins, 1884314344(41488) swapouts.
+Networks: packets: 98267221/71G in, 132898685/49G out.
+Disks: 96539942/8172G read, 91765774/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    31.6  00:22.03
+39745  java    234.1 00:52.03
+39747  java    14.8  00:29.68
+39748  java    17.0  00:39.78
+39751  java    30.2  00:19.69
+39755  java    85.9  00:35.57
+Processes: 559 total, 5 running, 554 sleeping, 3527 threads 
+2021/07/13 20:01:20
+Load Avg: 3.48, 2.50, 2.28 
+CPU usage: 25.65% user, 5.83% sys, 68.51% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671221 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3448M wired), 55M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867177280(31386) swapins, 1884326690(12346) swapouts.
+Networks: packets: 98268026/71G in, 132899488/49G out.
+Disks: 96540564/8172G read, 91766023/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    6.9   00:22.11
+39745  java    218.7 00:54.54
+39747  java    9.3   00:29.78
+39748  java    6.1   00:39.85
+39751  java    6.0   00:19.76
+39755  java    26.1  00:35.87
+Processes: 559 total, 3 running, 556 sleeping, 3541 threads 
+2021/07/13 20:01:21
+Load Avg: 3.48, 2.50, 2.28 
+CPU usage: 22.27% user, 8.11% sys, 69.60% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671221 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3447M wired), 21M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867188269(10989) swapins, 1884330657(3967) swapouts.
+Networks: packets: 98268694/71G in, 132900157/49G out.
+Disks: 96540811/8172G read, 91766119/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    7.1   00:22.20
+39745  java    169.0 00:56.79
+39747  java    8.9   00:29.90
+39748  java    10.1  00:39.99
+39751  java    15.1  00:19.96
+39755  java    18.2  00:36.11
+Processes: 559 total, 6 running, 553 sleeping, 3546 threads 
+2021/07/13 20:01:22
+Load Avg: 3.60, 2.55, 2.30 
+CPU usage: 9.65% user, 5.56% sys, 84.78% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671221 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3446M wired), 64M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867193123(4854) swapins, 1884350024(19367) swapouts.
+Networks: packets: 98269411/71G in, 132900874/49G out.
+Disks: 96540953/8172G read, 91766499/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.5   00:22.30
+39745  java    8.9   00:56.89
+39747  java    12.9  00:30.05
+39748  java    14.0  00:40.14
+39751  java    11.2  00:20.08
+39755  java    17.3  00:36.31
+Processes: 559 total, 3 running, 556 sleeping, 3548 threads 
+2021/07/13 20:01:23
+Load Avg: 3.60, 2.55, 2.30 
+CPU usage: 20.23% user, 7.46% sys, 72.29% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3443M wired), 41M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867208491(15368) swapins, 1884357149(7125) swapouts.
+Networks: packets: 98270241/71G in, 132901703/49G out.
+Disks: 96541246/8172G read, 91766784/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    26.0  00:22.59
+39745  java    7.9   00:56.98
+39747  java    11.7  00:30.18
+39748  java    17.7  00:40.34
+39751  java    11.5  00:20.21
+39755  java    100.7 00:37.43
+Processes: 559 total, 3 running, 556 sleeping, 3532 threads 
+2021/07/13 20:01:24
+Load Avg: 3.60, 2.55, 2.30 
+CPU usage: 12.21% user, 10.6% sys, 77.72% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3446M wired), 148M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867231165(22674) swapins, 1884404844(47695) swapouts.
+Networks: packets: 98270984/71G in, 132902447/49G out.
+Disks: 96541684/8172G read, 91767685/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    23.1  00:22.85
+39745  java    5.9   00:57.05
+39747  java    12.1  00:30.31
+39748  java    7.8   00:40.43
+39751  java    24.8  00:20.49
+39755  java    12.3  00:37.57
+Processes: 559 total, 7 running, 552 sleeping, 3522 threads 
+2021/07/13 20:01:25
+Load Avg: 3.60, 2.55, 2.30 
+CPU usage: 15.66% user, 13.48% sys, 70.85% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3443M wired), 15M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867270519(39354) swapins, 1884422682(17838) swapouts.
+Networks: packets: 98271739/71G in, 132903201/49G out.
+Disks: 96542405/8173G read, 91768012/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.4   00:22.94
+39745  java    11.2  00:57.18
+39747  java    11.3  00:30.44
+39748  java    6.1   00:40.50
+39751  java    5.4   00:20.55
+39755  java    22.1  00:37.82
+Processes: 559 total, 6 running, 2 stuck, 551 sleeping, 3590 threads 
+2021/07/13 20:01:27
+Load Avg: 6.27, 3.12, 2.50 
+CPU usage: 18.56% user, 36.66% sys, 44.77% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3455M wired), 5952K unused.
+VM: 4609G vsize, 2305M framework vsize, 1867384829(114310) swapins, 1884444303(21621) swapouts.
+Networks: packets: 98272340/71G in, 132903808/49G out.
+Disks: 96544396/8173G read, 91768401/7868G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.9   00:23.00
+39745  java    12.9  00:57.33
+39747  java    13.1  00:30.60
+39748  java    13.6  00:40.66
+39751  java    5.0   00:20.61
+39755  java    45.6  00:38.36
+Processes: 559 total, 4 running, 555 sleeping, 3596 threads 
+2021/07/13 20:01:28
+Load Avg: 6.27, 3.12, 2.50 
+CPU usage: 19.86% user, 18.68% sys, 61.45% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3448M wired), 452M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867429663(44834) swapins, 1884586996(142693) swapouts.
+Networks: packets: 98273190/71G in, 132904658/49G out.
+Disks: 96545194/8173G read, 91770875/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    16.0  00:23.21
+39745  java    10.9  00:57.47
+39747  java    9.7   00:30.72
+39748  java    7.9   00:40.76
+39751  java    9.8   00:20.74
+39755  java    68.9  00:39.24
+Processes: 559 total, 3 running, 556 sleeping, 3604 threads 
+2021/07/13 20:01:29
+Load Avg: 6.27, 3.12, 2.50 
+CPU usage: 8.46% user, 7.86% sys, 83.66% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3449M wired), 376M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867458038(28375) swapins, 1884617369(30373) swapouts.
+Networks: packets: 98273855/71G in, 132905327/49G out.
+Disks: 96546133/8173G read, 91771609/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.4   00:23.26
+39745  java    6.8   00:57.55
+39747  java    6.4   00:30.79
+39748  java    6.9   00:40.84
+39751  java    5.0   00:20.80
+39755  java    14.4  00:39.41
+Processes: 559 total, 8 running, 3 stuck, 548 sleeping, 3606 threads 
+2021/07/13 20:01:30
+Load Avg: 6.27, 3.12, 2.50 
+CPU usage: 15.14% user, 10.63% sys, 74.22% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3451M wired), 314M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867506900(48862) swapins, 1884617369(0) swapouts.
+Networks: packets: 98274617/71G in, 132906401/49G out.
+Disks: 96546981/8174G read, 91771988/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.2   00:23.35
+39745  java    17.4  00:57.74
+39747  java    5.8   00:30.86
+39748  java    7.4   00:40.92
+39751  java    8.5   00:20.89
+39755  java    21.0  00:39.64
+Processes: 559 total, 7 running, 1 stuck, 551 sleeping, 3579 threads 
+2021/07/13 20:01:31
+Load Avg: 6.09, 3.13, 2.51 
+CPU usage: 18.66% user, 18.29% sys, 63.3% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3451M wired), 181M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867603387(96487) swapins, 1884665560(48191) swapouts.
+Networks: packets: 98275422/71G in, 132907307/49G out.
+Disks: 96548685/8174G read, 91772891/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    9.8   00:23.46
+39745  java    14.8  00:57.91
+39747  java    14.4  00:31.02
+39748  java    7.3   00:41.01
+39751  java    5.0   00:20.95
+39755  java    25.5  00:39.93
+Processes: 559 total, 5 running, 554 sleeping, 3574 threads 
+2021/07/13 20:01:32
+Load Avg: 6.09, 3.13, 2.51 
+CPU usage: 13.0% user, 6.27% sys, 80.72% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3450M wired), 135M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867610926(7539) swapins, 1884665560(0) swapouts.
+Networks: packets: 98276128/71G in, 132908011/49G out.
+Disks: 96548815/8174G read, 91772918/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    25.2  00:23.78
+39745  java    9.2   00:58.03
+39747  java    9.3   00:31.14
+39748  java    11.2  00:41.15
+39751  java    4.6   00:21.01
+39755  java    44.3  00:40.49
+Processes: 559 total, 3 running, 556 sleeping, 3575 threads 
+2021/07/13 20:01:34
+Load Avg: 6.09, 3.13, 2.51 
+CPU usage: 15.88% user, 5.44% sys, 78.67% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3451M wired), 86M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867614719(3793) swapins, 1884665560(0) swapouts.
+Networks: packets: 98276984/71G in, 132908867/49G out.
+Disks: 96548879/8174G read, 91772980/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    22.1  00:24.03
+39745  java    34.4  00:58.42
+39747  java    6.7   00:31.22
+39748  java    7.1   00:41.23
+39751  java    24.1  00:21.28
+39755  java    44.9  00:40.99
+Processes: 559 total, 4 running, 555 sleeping, 3555 threads 
+2021/07/13 20:01:35
+Load Avg: 6.09, 3.13, 2.51 
+CPU usage: 6.90% user, 3.56% sys, 89.52% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3451M wired), 32M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867618421(3702) swapins, 1884665560(0) swapouts.
+Networks: packets: 98277712/71G in, 132909595/49G out.
+Disks: 96549532/8174G read, 91773007/7869G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    7.1   00:24.11
+39745  java    5.1   00:58.47
+39747  java    7.7   00:31.30
+39748  java    7.3   00:41.31
+39751  java    4.6   00:21.33
+39755  java    14.8  00:41.16
+Processes: 559 total, 5 running, 554 sleeping, 3565 threads 
+2021/07/13 20:01:36
+Load Avg: 6.09, 3.13, 2.51 
+CPU usage: 13.49% user, 11.26% sys, 75.24% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3453M wired), 143M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867649991(31570) swapins, 1884737000(71440) swapouts.
+Networks: packets: 98278413/71G in, 132910297/49G out.
+Disks: 96550080/8174G read, 91774283/7870G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    14.5  00:24.27
+39745  java    7.1   00:58.55
+39747  java    7.6   00:31.39
+39748  java    7.8   00:41.40
+39751  java    8.4   00:21.43
+39755  java    12.1  00:41.30
+Processes: 559 total, 3 running, 1 stuck, 555 sleeping, 3564 threads 
+2021/07/13 20:01:37
+Load Avg: 6.16, 3.20, 2.53 
+CPU usage: 9.33% user, 5.92% sys, 84.74% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3453M wired), 114M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867652863(2872) swapins, 1884737000(0) swapouts.
+Networks: packets: 98279140/71G in, 132911024/49G out.
+Disks: 96550138/8174G read, 91774428/7870G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    25.4  00:24.56
+39745  java    10.5  00:58.67
+39747  java    4.9   00:31.45
+39748  java    6.3   00:41.47
+39751  java    5.5   00:21.49
+39755  java    9.0   00:41.40
+Processes: 559 total, 4 running, 1 stuck, 554 sleeping, 3560 threads 
+2021/07/13 20:01:38
+Load Avg: 6.16, 3.20, 2.53 
+CPU usage: 21.96% user, 5.80% sys, 72.22% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3453M wired), 92M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867661704(8841) swapins, 1884737000(0) swapouts.
+Networks: packets: 98279996/71G in, 132911880/49G out.
+Disks: 96550298/8174G read, 91774457/7870G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    19.9  00:24.78
+39745  java    41.4  00:59.14
+39747  java    4.9   00:31.50
+39748  java    14.7  00:41.64
+39751  java    21.3  00:21.73
+39755  java    124.4 00:42.80
+Processes: 559 total, 9 running, 4 stuck, 546 sleeping, 3572 threads 
+2021/07/13 20:01:39
+Load Avg: 6.16, 3.20, 2.53 
+CPU usage: 14.50% user, 11.25% sys, 74.24% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3453M wired), 20M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867694561(32857) swapins, 1884741340(4340) swapouts.
+Networks: packets: 98280733/71G in, 132912618/49G out.
+Disks: 96550867/8174G read, 91774568/7870G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.0   00:24.84
+39745  java    5.2   00:59.20
+39747  java    7.3   00:31.58
+39748  java    6.2   00:41.71
+39751  java    3.1   00:21.77
+39755  java    30.6  00:43.14
+Processes: 559 total, 4 running, 1 stuck, 554 sleeping, 3573 threads 
+2021/07/13 20:01:40
+Load Avg: 6.16, 3.20, 2.53 
+CPU usage: 13.41% user, 12.6% sys, 74.51% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671223 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3452M wired), 445M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867736929(42368) swapins, 1884895414(154074) swapouts.
+Networks: packets: 98281511/71G in, 132913393/49G out.
+Disks: 96551581/8174G read, 91777594/7870G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    27.0  00:25.15
+39745  java    7.7   00:59.29
+39747  java    6.5   00:31.66
+39748  java    6.4   00:41.78
+39751  java    11.8  00:21.90
+39755  java    39.1  00:43.59
+Processes: 559 total, 3 running, 556 sleeping, 3564 threads 
+2021/07/13 20:01:41
+Load Avg: 5.75, 3.16, 2.52 
+CPU usage: 9.86% user, 10.91% sys, 79.21% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671216 total, 8932M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3452M wired), 845M unused.
+VM: 4609G vsize, 2305M framework vsize, 1867772256(35327) swapins, 1885041606(146192) swapouts.
+Networks: packets: 98282210/71G in, 132914249/49G out.
+Disks: 96552209/8175G read, 91780308/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.2   00:25.24
+39745  java    4.2   00:59.33
+39747  java    11.1  00:31.78
+39748  java    15.1  00:41.95
+39751  java    2.9   00:21.93
+39755  java    35.8  00:43.99
+Processes: 560 total, 7 running, 553 sleeping, 3574 threads 
+2021/07/13 20:01:43
+Load Avg: 5.75, 3.16, 2.52 
+CPU usage: 14.94% user, 4.31% sys, 80.74% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3452M wired), 811M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867777387(5131) swapins, 1885041606(0) swapouts.
+Networks: packets: 98283192/71G in, 132915231/49G out.
+Disks: 96552300/8175G read, 91780343/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    13.3  00:25.39
+39745  java    4.7   00:59.39
+39747  java    8.6   00:31.88
+39748  java    10.7  00:42.07
+39751  java    5.8   00:22.00
+39755  java    110.1 00:45.21
+Processes: 560 total, 5 running, 555 sleeping, 3571 threads 
+2021/07/13 20:01:44
+Load Avg: 5.75, 3.16, 2.52 
+CPU usage: 11.23% user, 4.69% sys, 84.7% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3452M wired), 744M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867785719(8332) swapins, 1885041606(0) swapouts.
+Networks: packets: 98283960/71G in, 132915999/49G out.
+Disks: 96552443/8175G read, 91780374/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    24.9  00:25.70
+39745  java    4.4   00:59.44
+39747  java    6.1   00:31.96
+39748  java    6.4   00:42.15
+39751  java    32.8  00:22.41
+39755  java    34.1  00:45.64
+Processes: 560 total, 5 running, 555 sleeping, 3552 threads 
+2021/07/13 20:01:45
+Load Avg: 5.75, 3.16, 2.52 
+CPU usage: 7.64% user, 3.41% sys, 88.94% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3449M wired), 732M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867789362(3643) swapins, 1885041606(0) swapouts.
+Networks: packets: 98284673/71G in, 132916712/49G out.
+Disks: 96552506/8175G read, 91780402/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    6.4   00:25.78
+39745  java    13.8  00:59.60
+39747  java    9.5   00:32.06
+39748  java    7.4   00:42.23
+39751  java    8.9   00:22.51
+39755  java    22.3  00:45.90
+Processes: 560 total, 4 running, 556 sleeping, 3556 threads 
+2021/07/13 20:01:46
+Load Avg: 5.45, 3.14, 2.52 
+CPU usage: 6.22% user, 3.33% sys, 90.44% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3437M wired), 727M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867790631(1269) swapins, 1885041606(0) swapouts.
+Networks: packets: 98285389/71G in, 132917426/49G out.
+Disks: 96552527/8175G read, 91780440/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.1   00:25.87
+39745  java    6.9   00:59.68
+39747  java    14.8  00:32.23
+39748  java    4.9   00:42.29
+39751  java    2.7   00:22.54
+39755  java    8.6   00:45.99
+Processes: 560 total, 4 running, 556 sleeping, 3556 threads 
+2021/07/13 20:01:47
+Load Avg: 5.45, 3.14, 2.52 
+CPU usage: 5.85% user, 3.11% sys, 91.3% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3437M wired), 707M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867791335(704) swapins, 1885041606(0) swapouts.
+Networks: packets: 98286117/71G in, 132918154/49G out.
+Disks: 96552540/8175G read, 91780468/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.7   00:25.93
+39745  java    4.2   00:59.72
+39747  java    4.8   00:32.29
+39748  java    6.2   00:42.36
+39751  java    5.7   00:22.61
+39755  java    15.5  00:46.17
+Processes: 560 total, 4 running, 556 sleeping, 3541 threads 
+2021/07/13 20:01:48
+Load Avg: 5.45, 3.14, 2.52 
+CPU usage: 22.77% user, 3.67% sys, 73.55% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3433M wired), 676M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867794635(3300) swapins, 1885041606(0) swapouts.
+Networks: packets: 98287043/71G in, 132919080/49G out.
+Disks: 96552598/8175G read, 91780497/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    26.9  00:26.24
+39745  java    18.3  00:59.93
+39747  java    18.6  00:32.50
+39748  java    16.7  00:42.55
+39751  java    14.3  00:22.77
+39755  java    159.3 00:47.96
+Processes: 560 total, 5 running, 555 sleeping, 3548 threads 
+2021/07/13 20:01:49
+Load Avg: 5.45, 3.14, 2.52 
+CPU usage: 11.15% user, 3.76% sys, 85.7% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3433M wired), 635M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867797504(2869) swapins, 1885041606(0) swapouts.
+Networks: packets: 98287734/71G in, 132919771/49G out.
+Disks: 96552654/8175G read, 91780541/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    50.5  00:26.80
+39745  java    15.3  01:00.10
+39747  java    5.2   00:32.55
+39748  java    10.8  00:42.67
+39751  java    9.0   00:22.87
+39755  java    21.1  00:48.20
+Processes: 560 total, 4 running, 1 stuck, 555 sleeping, 3554 threads 
+2021/07/13 20:01:51
+Load Avg: 5.45, 3.14, 2.52 
+CPU usage: 9.37% user, 3.5% sys, 87.57% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3432M wired), 622M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867798398(894) swapins, 1885041606(0) swapouts.
+Networks: packets: 98288473/71G in, 132920510/49G out.
+Disks: 96552671/8175G read, 91780658/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    46.5  00:27.31
+39745  java    8.3   01:00.19
+39747  java    5.2   00:32.61
+39748  java    4.9   00:42.72
+39751  java    16.9  00:23.06
+39755  java    14.1  00:48.35
+Processes: 560 total, 4 running, 556 sleeping, 3548 threads 
+2021/07/13 20:01:52
+Load Avg: 5.17, 3.12, 2.52 
+CPU usage: 12.89% user, 2.92% sys, 84.18% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3431M wired), 586M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867800126(1728) swapins, 1885041606(0) swapouts.
+Networks: packets: 98289207/71G in, 132921243/49G out.
+Disks: 96552706/8175G read, 91780688/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    61.6  00:28.00
+39745  java    6.0   01:00.26
+39747  java    5.0   00:32.67
+39748  java    8.4   00:42.82
+39751  java    3.1   00:23.09
+39755  java    8.2   00:48.44
+Processes: 560 total, 6 running, 554 sleeping, 3548 threads 
+2021/07/13 20:01:53
+Load Avg: 5.17, 3.12, 2.52 
+CPU usage: 17.96% user, 4.37% sys, 77.66% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 15G used (3431M wired), 564M unused.
+VM: 4610G vsize, 2305M framework vsize, 1867803189(3063) swapins, 1885041606(0) swapouts.
+Networks: packets: 98290153/71G in, 132922189/49G out.
+Disks: 96552763/8175G read, 91780718/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    26.6  00:28.30
+39745  java    5.3   01:00.32
+39747  java    34.6  00:33.05
+39748  java    39.9  00:43.26
+39751  java    6.4   00:23.16
+39755  java    87.1  00:49.41
+Processes: 560 total, 4 running, 556 sleeping, 3549 threads 
+2021/07/13 20:01:54
+Load Avg: 5.17, 3.12, 2.52 
+CPU usage: 8.79% user, 3.45% sys, 87.75% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3430M wired), 488M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867816330(13141) swapins, 1885041606(0) swapouts.
+Networks: packets: 98290938/71G in, 132922976/49G out.
+Disks: 96553007/8175G read, 91780747/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    11.2  00:28.42
+39745  java    5.9   01:00.39
+39747  java    14.1  00:33.21
+39748  java    8.5   00:43.35
+39751  java    3.9   00:23.21
+39755  java    33.1  00:49.78
+Processes: 560 total, 2 running, 558 sleeping, 3540 threads 
+2021/07/13 20:01:55
+Load Avg: 5.17, 3.12, 2.52 
+CPU usage: 5.31% user, 3.77% sys, 90.90% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3430M wired), 478M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867818306(1976) swapins, 1885041606(0) swapouts.
+Networks: packets: 98291676/71G in, 132923711/49G out.
+Disks: 96553040/8175G read, 91780777/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    14.4  00:28.60
+39745  java    4.1   01:00.44
+39747  java    5.5   00:33.28
+39748  java    5.0   00:43.41
+39751  java    2.4   00:23.24
+39755  java    13.4  00:49.94
+Processes: 560 total, 2 running, 558 sleeping, 3549 threads 
+2021/07/13 20:01:56
+Load Avg: 4.92, 3.10, 2.51 
+CPU usage: 5.25% user, 3.55% sys, 91.18% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3421M wired), 445M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867821502(3196) swapins, 1885041606(0) swapouts.
+Networks: packets: 98292422/71G in, 132924457/49G out.
+Disks: 96553095/8175G read, 91780834/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.0   00:28.66
+39745  java    6.1   01:00.51
+39747  java    6.2   00:33.35
+39748  java    6.0   00:43.48
+39751  java    3.3   00:23.28
+39755  java    9.7   00:50.05
+Processes: 560 total, 3 running, 557 sleeping, 3552 threads 
+2021/07/13 20:01:57
+Load Avg: 4.92, 3.10, 2.51 
+CPU usage: 8.96% user, 4.63% sys, 86.40% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3421M wired), 390M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867823037(1535) swapins, 1885041606(0) swapouts.
+Networks: packets: 98293148/71G in, 132925183/49G out.
+Disks: 96553122/8175G read, 91780861/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.8   00:28.70
+39745  java    4.8   01:00.56
+39747  java    4.6   00:33.40
+39748  java    6.2   00:43.55
+39751  java    4.5   00:23.33
+39755  java    32.4  00:50.41
+Processes: 560 total, 2 running, 558 sleeping, 3549 threads 
+2021/07/13 20:01:58
+Load Avg: 4.92, 3.10, 2.51 
+CPU usage: 14.11% user, 5.0% sys, 80.88% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3421M wired), 188M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867828836(5799) swapins, 1885041606(0) swapouts.
+Networks: packets: 98294060/71G in, 132926095/49G out.
+Disks: 96553221/8175G read, 91780885/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    39.9  00:29.15
+39745  java    5.1   01:00.62
+39747  java    7.0   00:33.48
+39748  java    6.3   00:43.62
+39751  java    13.5  00:23.48
+39755  java    52.1  00:51.00
+Processes: 560 total, 2 running, 558 sleeping, 3549 threads 
+2021/07/13 20:02:00
+Load Avg: 4.92, 3.10, 2.51 
+CPU usage: 6.53% user, 3.71% sys, 89.75% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3421M wired), 300M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867830180(1344) swapins, 1885041606(0) swapouts.
+Networks: packets: 98294791/71G in, 132926826/49G out.
+Disks: 96553244/8175G read, 91780985/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    6.4   00:29.22
+39745  java    3.9   01:00.66
+39747  java    7.3   00:33.56
+39748  java    8.8   00:43.72
+39751  java    3.6   00:23.52
+39755  java    12.3  00:51.14
+Processes: 560 total, 3 running, 557 sleeping, 3548 threads 
+2021/07/13 20:02:01
+Load Avg: 4.92, 3.10, 2.51 
+CPU usage: 10.45% user, 3.83% sys, 85.71% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671272 total, 8933M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3422M wired), 309M unused.
+VM: 4614G vsize, 2305M framework vsize, 1867833946(3766) swapins, 1885041606(0) swapouts.
+Networks: packets: 98295535/71G in, 132927570/49G out.
+Disks: 96553320/8175G read, 91781014/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    15.2  00:29.39
+39745  java    10.2  01:00.78
+39747  java    7.5   00:33.65
+39748  java    7.1   00:43.80
+39751  java    7.9   00:23.61
+39755  java    48.7  00:51.68
+Processes: 561 total, 5 running, 556 sleeping, 3555 threads 
+2021/07/13 20:02:02
+Load Avg: 4.85, 3.12, 2.52 
+CPU usage: 11.21% user, 3.16% sys, 85.61% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671325 total, 8934M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3422M wired), 291M unused.
+VM: 4618G vsize, 2305M framework vsize, 1867835734(1788) swapins, 1885041606(0) swapouts.
+Networks: packets: 98296314/71G in, 132928346/49G out.
+Disks: 96553367/8175G read, 91781056/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    38.4  00:29.82
+39745  java    7.3   01:00.86
+39747  java    5.5   00:33.71
+39748  java    6.2   00:43.87
+39751  java    7.6   00:23.69
+39755  java    35.5  00:52.08
+Processes: 562 total, 3 running, 559 sleeping, 3559 threads 
+2021/07/13 20:02:03
+Load Avg: 4.85, 3.12, 2.52 
+CPU usage: 24.47% user, 3.61% sys, 71.91% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3422M wired), 267M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867839178(3444) swapins, 1885041606(0) swapouts.
+Networks: packets: 98297174/71G in, 132929204/49G out.
+Disks: 96553434/8175G read, 91781080/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    44.2  00:30.31
+39745  java    4.6   01:00.91
+39747  java    22.8  00:33.96
+39748  java    23.4  00:44.13
+39751  java    19.8  00:23.91
+39755  java    119.2 00:53.40
+Processes: 562 total, 2 running, 560 sleeping, 3560 threads 
+2021/07/13 20:02:04
+Load Avg: 4.85, 3.12, 2.52 
+CPU usage: 8.35% user, 5.96% sys, 85.68% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 65M private, 1171M shared.
+PhysMem: 16G used (3432M wired), 208M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867843833(4655) swapins, 1885041606(0) swapouts.
+Networks: packets: 98297921/71G in, 132929952/49G out.
+Disks: 96553522/8175G read, 91781235/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    28.5  00:30.62
+39745  java    3.8   01:00.95
+39747  java    6.6   00:34.03
+39748  java    4.1   00:44.18
+39751  java    3.2   00:23.95
+39755  java    12.5  00:53.54
+Processes: 562 total, 4 running, 558 sleeping, 3552 threads 
+2021/07/13 20:02:05
+Load Avg: 4.85, 3.12, 2.52 
+CPU usage: 8.92% user, 4.57% sys, 86.50% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 16G used (3427M wired), 177M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867845817(1984) swapins, 1885041606(0) swapouts.
+Networks: packets: 98298759/71G in, 132930789/49G out.
+Disks: 96553560/8175G read, 91781269/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    9.5   00:30.73
+39745  java    23.8  01:01.22
+39747  java    7.3   00:34.12
+39748  java    7.5   00:44.26
+39751  java    2.9   00:23.98
+39755  java    9.7   00:53.65
+Processes: 562 total, 3 running, 559 sleeping, 3654 threads 
+2021/07/13 20:02:06
+Load Avg: 4.78, 3.13, 2.53 
+CPU usage: 11.21% user, 7.20% sys, 81.57% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 16G used (3481M wired), 90M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867855006(9189) swapins, 1885041606(0) swapouts.
+Networks: packets: 98299536/71G in, 132931566/49G out.
+Disks: 96553755/8175G read, 91781298/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    6.2   00:30.81
+39745  java    14.0  01:01.39
+39747  java    5.2   00:34.18
+39748  java    7.2   00:44.35
+39751  java    19.7  00:24.23
+39755  java    8.5   00:53.75
+Processes: 562 total, 5 running, 557 sleeping, 3652 threads 
+2021/07/13 20:02:07
+Load Avg: 4.78, 3.13, 2.53 
+CPU usage: 12.8% user, 4.42% sys, 83.49% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 16G used (3462M wired), 112M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867856217(1211) swapins, 1885041606(0) swapouts.
+Networks: packets: 98300400/71G in, 132932430/49G out.
+Disks: 96553777/8175G read, 91781323/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.8   00:30.91
+39745  java    4.0   01:01.44
+39747  java    6.1   00:34.25
+39748  java    7.6   00:44.44
+39751  java    5.1   00:24.28
+39755  java    77.8  00:54.63
+Processes: 562 total, 5 running, 1 stuck, 556 sleeping, 3644 threads 
+2021/07/13 20:02:09
+Load Avg: 4.78, 3.13, 2.53 
+CPU usage: 11.57% user, 4.82% sys, 83.60% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 16G used (3462M wired), 78M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867858391(2174) swapins, 1885041606(0) swapouts.
+Networks: packets: 98301204/71G in, 132933234/49G out.
+Disks: 96553818/8175G read, 91781430/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    19.1  00:31.12
+39745  java    8.4   01:01.53
+39747  java    15.1  00:34.42
+39748  java    14.4  00:44.60
+39751  java    9.4   00:24.39
+39755  java    8.1   00:54.72
+Processes: 562 total, 3 running, 559 sleeping, 3656 threads 
+2021/07/13 20:02:10
+Load Avg: 4.78, 3.13, 2.53 
+CPU usage: 6.50% user, 5.90% sys, 87.58% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 16G used (3461M wired), 67M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867859863(1472) swapins, 1885041606(0) swapouts.
+Networks: packets: 98301891/71G in, 132933922/49G out.
+Disks: 96553848/8175G read, 91781457/7871G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.2   00:31.18
+39745  java    8.4   01:01.63
+39747  java    5.5   00:34.48
+39748  java    5.4   00:44.66
+39751  java    2.6   00:24.42
+39755  java    8.5   00:54.82
+Processes: 562 total, 3 running, 559 sleeping, 3653 threads 
+2021/07/13 20:02:11
+Load Avg: 4.78, 3.13, 2.53 
+CPU usage: 6.53% user, 11.56% sys, 81.90% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 15G used (3511M wired), 652M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867861901(2038) swapins, 1885202071(160465) swapouts.
+Networks: packets: 98302656/71G in, 132934686/49G out.
+Disks: 96553884/8175G read, 91784639/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.7   00:31.24
+39745  java    12.6  01:01.77
+39747  java    5.3   00:34.54
+39748  java    8.5   00:44.76
+39751  java    2.2   00:24.45
+39755  java    9.4   00:54.92
+Processes: 562 total, 3 running, 559 sleeping, 3579 threads 
+2021/07/13 20:02:12
+Load Avg: 4.71, 3.15, 2.54 
+CPU usage: 8.14% user, 5.68% sys, 86.17% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671385 total, 8935M resident, 66M private, 1171M shared.
+PhysMem: 15G used (3467M wired), 846M unused.
+VM: 4622G vsize, 2305M framework vsize, 1867865160(3259) swapins, 1885249070(46999) swapouts.
+Networks: packets: 98303397/71G in, 132935427/49G out.
+Disks: 96554207/8175G read, 91785559/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.4   00:31.30
+39745  java    3.4   01:01.81
+39747  java    4.8   00:34.60
+39748  java    5.8   00:44.82
+39751  java    4.0   00:24.49
+39755  java    17.9  00:55.12
+Processes: 566 total, 3 running, 2 stuck, 561 sleeping, 3613 threads 
+2021/07/13 20:02:13
+Load Avg: 4.71, 3.15, 2.54 
+CPU usage: 16.61% user, 6.21% sys, 77.17% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671736 total, 8940M resident, 66M private, 1174M shared.
+PhysMem: 15G used (3469M wired), 648M unused.
+VM: 4639G vsize, 2305M framework vsize, 1867908260(43100) swapins, 1885249070(0) swapouts.
+Networks: packets: 98304339/71G in, 132936369/49G out.
+Disks: 96555484/8175G read, 91785590/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    17.5  00:31.49
+39745  java    5.4   01:01.87
+39747  java    4.1   00:34.64
+39748  java    14.4  00:44.98
+39751  java    10.0  00:24.60
+39755  java    93.7  00:56.17
+Processes: 570 total, 3 running, 567 sleeping, 3607 threads 
+2021/07/13 20:02:14
+Load Avg: 4.71, 3.15, 2.54 
+CPU usage: 9.2% user, 4.39% sys, 86.57% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671947 total, 8942M resident, 66M private, 1174M shared.
+PhysMem: 15G used (3470M wired), 562M unused.
+VM: 4656G vsize, 2305M framework vsize, 1867924445(16185) swapins, 1885249070(0) swapouts.
+Networks: packets: 98305158/71G in, 132937336/49G out.
+Disks: 96555801/8175G read, 91785622/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.2   00:31.55
+39745  java    5.9   01:01.93
+39747  java    11.8  00:34.78
+39748  java    4.1   00:45.03
+39751  java    2.6   00:24.63
+39755  java    50.2  00:56.73
+Processes: 570 total, 2 running, 568 sleeping, 3604 threads 
+2021/07/13 20:02:15
+Load Avg: 4.71, 3.15, 2.54 
+CPU usage: 11.54% user, 4.61% sys, 83.83% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671947 total, 8942M resident, 66M private, 1174M shared.
+PhysMem: 15G used (3470M wired), 516M unused.
+VM: 4656G vsize, 2305M framework vsize, 1867930866(6421) swapins, 1885249070(0) swapouts.
+Networks: packets: 98305979/71G in, 132938148/49G out.
+Disks: 96555920/8175G read, 91785656/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    12.0  00:31.68
+39745  java    4.8   01:01.99
+39747  java    6.0   00:34.84
+39748  java    5.9   00:45.10
+39751  java    2.1   00:24.66
+39755  java    57.8  00:57.37
+Processes: 570 total, 3 running, 567 sleeping, 3602 threads 
+2021/07/13 20:02:17
+Load Avg: 4.34, 3.09, 2.52 
+CPU usage: 7.61% user, 3.65% sys, 88.72% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671947 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3470M wired), 492M unused.
+VM: 4656G vsize, 2305M framework vsize, 1867932977(2111) swapins, 1885249070(0) swapouts.
+Networks: packets: 98306793/71G in, 132938959/49G out.
+Disks: 96555960/8175G read, 91786090/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    15.2  00:31.85
+39745  java    3.3   01:02.03
+39747  java    5.8   00:34.91
+39748  java    9.0   00:45.20
+39751  java    5.6   00:24.72
+39755  java    30.3  00:57.71
+Processes: 570 total, 3 running, 567 sleeping, 3603 threads 
+2021/07/13 20:02:18
+Load Avg: 4.34, 3.09, 2.52 
+CPU usage: 12.4% user, 5.2% sys, 82.93% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671947 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3470M wired), 479M unused.
+VM: 4656G vsize, 2305M framework vsize, 1867935141(2164) swapins, 1885249070(0) swapouts.
+Networks: packets: 98307709/71G in, 132939874/49G out.
+Disks: 96556007/8175G read, 91786118/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    19.1  00:32.09
+39745  java    4.0   01:02.08
+39747  java    5.4   00:34.98
+39748  java    5.6   00:45.27
+39751  java    7.5   00:24.81
+39755  java    79.9  00:58.70
+Processes: 569 total, 4 running, 565 sleeping, 3586 threads 
+2021/07/13 20:02:19
+Load Avg: 4.34, 3.09, 2.52 
+CPU usage: 8.74% user, 3.69% sys, 87.56% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3470M wired), 456M unused.
+VM: 4652G vsize, 2305M framework vsize, 1867937501(2360) swapins, 1885249070(0) swapouts.
+Networks: packets: 98308474/71G in, 132940638/49G out.
+Disks: 96556056/8175G read, 91786151/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    10.5  00:32.21
+39745  java    14.2  01:02.24
+39747  java    5.0   00:35.03
+39748  java    4.3   00:45.32
+39751  java    6.0   00:24.88
+39755  java    45.7  00:59.22
+Processes: 569 total, 3 running, 566 sleeping, 3590 threads 
+2021/07/13 20:02:20
+Load Avg: 4.34, 3.09, 2.52 
+CPU usage: 7.41% user, 3.52% sys, 89.6% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3470M wired), 442M unused.
+VM: 4652G vsize, 2305M framework vsize, 1867940885(3384) swapins, 1885249070(0) swapouts.
+Networks: packets: 98309202/71G in, 132941366/49G out.
+Disks: 96556120/8175G read, 91786246/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    11.2  00:32.34
+39745  java    4.8   01:02.29
+39747  java    11.1  00:35.16
+39748  java    8.7   00:45.41
+39751  java    17.6  00:25.08
+39755  java    11.5  00:59.34
+Processes: 569 total, 5 running, 564 sleeping, 3589 threads 
+2021/07/13 20:02:21
+Load Avg: 4.34, 3.09, 2.52 
+CPU usage: 9.84% user, 4.77% sys, 85.38% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3479M wired), 382M unused.
+VM: 4652G vsize, 2305M framework vsize, 1867948269(7384) swapins, 1885249070(0) swapouts.
+Networks: packets: 98309953/71G in, 132942118/49G out.
+Disks: 96556265/8175G read, 91786278/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    42.3  00:32.81
+39745  java    4.6   01:02.34
+39747  java    4.5   00:35.21
+39748  java    5.3   00:45.47
+39751  java    10.0  00:25.19
+39755  java    21.7  00:59.58
+Processes: 569 total, 3 running, 566 sleeping, 3581 threads 
+2021/07/13 20:02:22
+Load Avg: 4.47, 3.14, 2.54 
+CPU usage: 9.99% user, 3.60% sys, 86.40% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3479M wired), 352M unused.
+VM: 4652G vsize, 2305M framework vsize, 1867950814(2545) swapins, 1885249070(0) swapouts.
+Networks: packets: 98310694/71G in, 132942858/49G out.
+Disks: 96556313/8175G read, 91786307/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    13.6  00:32.96
+39745  java    25.3  01:02.62
+39747  java    10.5  00:35.33
+39748  java    12.0  00:45.61
+39751  java    17.3  00:25.38
+39755  java    14.6  00:59.75
+Processes: 569 total, 5 running, 564 sleeping, 3578 threads 
+2021/07/13 20:02:23
+Load Avg: 4.47, 3.14, 2.54 
+CPU usage: 20.37% user, 3.90% sys, 75.71% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3479M wired), 346M unused.
+VM: 4652G vsize, 2305M framework vsize, 1867952791(1977) swapins, 1885249070(0) swapouts.
+Networks: packets: 98311674/71G in, 132943839/49G out.
+Disks: 96556350/8175G read, 91786340/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    25.9  00:33.25
+39745  java    68.4  01:03.38
+39747  java    4.1   00:35.37
+39748  java    4.3   00:45.65
+39751  java    6.3   00:25.45
+39755  java    92.4  01:00.77
+Processes: 569 total, 4 running, 565 sleeping, 3559 threads 
+2021/07/13 20:02:24
+Load Avg: 4.47, 3.14, 2.54 
+CPU usage: 5.37% user, 4.63% sys, 89.99% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3466M wired), 260M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867972780(19989) swapins, 1885249070(0) swapouts.
+Networks: packets: 98312403/71G in, 132944568/49G out.
+Disks: 96556721/8175G read, 91786454/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    9.6   00:33.35
+39745  java    3.8   01:03.42
+39747  java    7.0   00:35.45
+39748  java    4.6   00:45.71
+39751  java    3.1   00:25.49
+39755  java    8.5   01:00.87
+Processes: 569 total, 5 running, 564 sleeping, 3579 threads 
+2021/07/13 20:02:25
+Load Avg: 4.47, 3.14, 2.54 
+CPU usage: 8.59% user, 5.70% sys, 85.70% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3495M wired), 196M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867977052(4272) swapins, 1885249070(0) swapouts.
+Networks: packets: 98313146/71G in, 132945311/49G out.
+Disks: 96556803/8175G read, 91786482/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.2   00:33.41
+39745  java    4.5   01:03.48
+39747  java    4.4   00:35.50
+39748  java    4.6   00:45.76
+39751  java    5.8   00:25.55
+39755  java    12.9  01:01.01
+Processes: 569 total, 2 running, 567 sleeping, 3581 threads 
+2021/07/13 20:02:27
+Load Avg: 4.35, 3.14, 2.55 
+CPU usage: 5.70% user, 4.89% sys, 89.39% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3461M wired), 194M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867978391(1339) swapins, 1885249070(0) swapouts.
+Networks: packets: 98313894/71G in, 132946180/49G out.
+Disks: 96556827/8175G read, 91786509/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    10.2  00:33.53
+39745  java    3.4   01:03.51
+39747  java    7.5   00:35.59
+39748  java    7.3   00:45.84
+39751  java    2.2   00:25.58
+39755  java    10.1  01:01.13
+Processes: 569 total, 2 running, 567 sleeping, 3580 threads 
+2021/07/13 20:02:28
+Load Avg: 4.35, 3.14, 2.55 
+CPU usage: 14.0% user, 4.34% sys, 81.64% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3462M wired), 171M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867982285(3894) swapins, 1885249070(0) swapouts.
+Networks: packets: 98314928/71G in, 132947213/49G out.
+Disks: 96556899/8175G read, 91786543/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    11.7  00:33.66
+39745  java    26.9  01:03.82
+39747  java    4.6   00:35.64
+39748  java    5.2   00:45.90
+39751  java    15.6  00:25.75
+39755  java    68.6  01:01.90
+Processes: 569 total, 2 running, 567 sleeping, 3580 threads 
+2021/07/13 20:02:29
+Load Avg: 4.35, 3.14, 2.55 
+CPU usage: 7.30% user, 5.49% sys, 87.19% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3461M wired), 150M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867983303(1018) swapins, 1885249070(0) swapouts.
+Networks: packets: 98315672/71G in, 132947956/49G out.
+Disks: 96556917/8175G read, 91786572/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.5   00:33.70
+39745  java    7.1   01:03.90
+39747  java    6.3   00:35.72
+39748  java    4.0   00:45.95
+39751  java    4.4   00:25.81
+39755  java    10.1  01:02.02
+Processes: 569 total, 2 running, 567 sleeping, 3573 threads 
+2021/07/13 20:02:30
+Load Avg: 4.35, 3.14, 2.55 
+CPU usage: 7.53% user, 4.55% sys, 87.91% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3485M wired), 87M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867990265(6962) swapins, 1885249070(0) swapouts.
+Networks: packets: 98316392/71G in, 132948675/49G out.
+Disks: 96557043/8175G read, 91786600/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    13.2  00:33.85
+39745  java    6.8   01:03.98
+39747  java    4.3   00:35.77
+39748  java    6.2   00:46.02
+39751  java    7.8   00:25.90
+39755  java    13.3  01:02.17
+Processes: 569 total, 3 running, 566 sleeping, 3565 threads 
+2021/07/13 20:02:31
+Load Avg: 4.56, 3.20, 2.57 
+CPU usage: 7.87% user, 5.49% sys, 86.62% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3482M wired), 19M unused.
+VM: 4644G vsize, 2305M framework vsize, 1867996379(6114) swapins, 1885249070(0) swapouts.
+Networks: packets: 98317171/71G in, 132949456/49G out.
+Disks: 96557199/8175G read, 91786636/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.0   00:33.91
+39745  java    4.6   01:04.03
+39747  java    5.2   00:35.82
+39748  java    19.1  00:46.23
+39751  java    2.0   00:25.92
+39755  java    6.5   01:02.24
+Processes: 569 total, 3 running, 566 sleeping, 3566 threads 
+2021/07/13 20:02:32
+Load Avg: 4.56, 3.20, 2.57 
+CPU usage: 6.85% user, 8.48% sys, 84.66% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671885 total, 8942M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3481M wired), 380M unused.
+VM: 4644G vsize, 2305M framework vsize, 1868010417(14038) swapins, 1885357308(108238) swapouts.
+Networks: packets: 98317958/71G in, 132950239/49G out.
+Disks: 96557456/8176G read, 91788648/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    7.7   00:33.99
+39745  java    4.0   01:04.08
+39747  java    4.9   00:35.88
+39748  java    6.5   00:46.31
+39751  java    5.8   00:25.98
+39755  java    29.6  01:02.58
+Processes: 560 total, 4 running, 556 sleeping, 3565 threads 
+2021/07/13 20:02:33
+Load Avg: 4.56, 3.20, 2.57 
+CPU usage: 12.42% user, 5.20% sys, 82.36% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3479M wired), 343M unused.
+VM: 4606G vsize, 2305M framework vsize, 1868019338(8921) swapins, 1885357308(0) swapouts.
+Networks: packets: 98318912/71G in, 132951193/49G out.
+Disks: 96557631/8176G read, 91788678/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    34.7  00:34.38
+39745  java    3.3   01:04.12
+39747  java    23.2  00:36.14
+39748  java    5.7   00:46.37
+39751  java    5.9   00:26.05
+39755  java    51.7  01:03.16
+Processes: 560 total, 2 running, 558 sleeping, 3557 threads 
+2021/07/13 20:02:35
+Load Avg: 4.56, 3.20, 2.57 
+CPU usage: 5.32% user, 4.79% sys, 89.88% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3479M wired), 283M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868028382(9044) swapins, 1885357308(0) swapouts.
+Networks: packets: 98319652/71G in, 132951931/49G out.
+Disks: 96557847/8176G read, 91788709/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.5   00:34.42
+39745  java    3.9   01:04.16
+39747  java    4.3   00:36.19
+39748  java    4.0   00:46.42
+39751  java    3.7   00:26.09
+39755  java    6.9   01:03.23
+Processes: 560 total, 2 running, 558 sleeping, 3565 threads 
+2021/07/13 20:02:36
+Load Avg: 4.56, 3.20, 2.57 
+CPU usage: 10.25% user, 4.52% sys, 85.21% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3455M wired), 212M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868030959(2577) swapins, 1885357308(0) swapouts.
+Networks: packets: 98320379/71G in, 132952658/49G out.
+Disks: 96557897/8176G read, 91788737/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    44.1  00:34.92
+39745  java    5.4   01:04.22
+39747  java    8.0   00:36.28
+39748  java    7.7   00:46.50
+39751  java    3.3   00:26.13
+39755  java    8.9   01:03.33
+Processes: 560 total, 4 running, 556 sleeping, 3563 threads 
+2021/07/13 20:02:37
+Load Avg: 4.36, 3.18, 2.57 
+CPU usage: 11.85% user, 7.62% sys, 80.51% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3455M wired), 73M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868033898(2939) swapins, 1885357308(0) swapouts.
+Networks: packets: 98321112/71G in, 132953391/49G out.
+Disks: 96557951/8176G read, 91788852/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    71.7  00:35.71
+39745  java    3.6   01:04.26
+39747  java    63.0  00:36.98
+39748  java    9.0   00:46.60
+39751  java    1.9   00:26.15
+39755  java    6.2   01:03.40
+Processes: 560 total, 3 running, 1 stuck, 556 sleeping, 3561 threads 
+2021/07/13 20:02:38
+Load Avg: 4.36, 3.18, 2.57 
+CPU usage: 13.96% user, 6.27% sys, 79.76% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 69M private, 1174M shared.
+PhysMem: 16G used (3455M wired), 52M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868037909(4011) swapins, 1885357308(0) swapouts.
+Networks: packets: 98322072/71G in, 132954352/49G out.
+Disks: 96558018/8176G read, 91788882/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    14.6  00:35.88
+39745  java    3.3   01:04.30
+39747  java    4.2   00:37.02
+39748  java    4.2   00:46.65
+39751  java    10.4  00:26.27
+39755  java    66.0  01:04.14
+Processes: 560 total, 4 running, 8 stuck, 548 sleeping, 3565 threads 
+2021/07/13 20:02:39
+Load Avg: 4.36, 3.18, 2.57 
+CPU usage: 12.71% user, 12.84% sys, 74.43% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3500M wired), 16M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868108743(70834) swapins, 1885362412(5104) swapouts.
+Networks: packets: 98322952/71G in, 132955235/49G out.
+Disks: 96559302/8176G read, 91789017/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    9.6   00:35.98
+39745  java    3.9   01:04.34
+39747  java    22.6  00:37.28
+39748  java    9.8   00:46.76
+39751  java    5.5   00:26.33
+39755  java    18.8  01:04.35
+Processes: 560 total, 3 running, 557 sleeping, 3574 threads 
+2021/07/13 20:02:40
+Load Avg: 4.36, 3.18, 2.57 
+CPU usage: 4.95% user, 8.11% sys, 86.93% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3457M wired), 272M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868115183(6440) swapins, 1885425685(63273) swapouts.
+Networks: packets: 98323745/71G in, 132956027/49G out.
+Disks: 96559419/8176G read, 91790363/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.9   00:36.04
+39745  java    4.4   01:04.40
+39747  java    4.5   00:37.34
+39748  java    4.7   00:46.83
+39751  java    4.9   00:26.40
+39755  java    11.1  01:04.50
+Processes: 560 total, 6 running, 554 sleeping, 3571 threads 
+2021/07/13 20:02:41
+Load Avg: 4.01, 3.13, 2.55 
+CPU usage: 7.64% user, 3.70% sys, 88.64% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671270 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3456M wired), 237M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868117222(2039) swapins, 1885425685(0) swapouts.
+Networks: packets: 98324490/71G in, 132956775/49G out.
+Disks: 96559456/8176G read, 91790392/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    42.9  00:36.52
+39745  java    3.2   01:04.44
+39747  java    3.9   00:37.38
+39748  java    5.1   00:46.88
+39751  java    3.5   00:26.44
+39755  java    12.0  01:04.64
+Processes: 559 total, 6 running, 1 stuck, 552 sleeping, 3575 threads 
+2021/07/13 20:02:43
+Load Avg: 4.01, 3.13, 2.55 
+CPU usage: 15.83% user, 5.49% sys, 78.66% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3469M wired), 220M unused.
+VM: 4606G vsize, 2305M framework vsize, 1868121491(4269) swapins, 1885425685(0) swapouts.
+Networks: packets: 98325411/71G in, 132957695/49G out.
+Disks: 96559537/8176G read, 91790458/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    44.2  00:37.02
+39745  java    3.8   01:04.48
+39747  java    5.0   00:37.44
+39748  java    5.1   00:46.94
+39751  java    5.6   00:26.50
+39755  java    88.3  01:05.63
+Processes: 559 total, 8 running, 551 sleeping, 3630 threads 
+2021/07/13 20:02:44
+Load Avg: 4.01, 3.13, 2.55 
+CPU usage: 14.75% user, 14.11% sys, 71.13% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3495M wired), 36M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868174004(52513) swapins, 1885440996(15311) swapouts.
+Networks: packets: 98326184/71G in, 132958466/49G out.
+Disks: 96560514/8176G read, 91790756/7872G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    10.8  00:37.14
+39745  java    9.1   01:04.59
+39747  java    13.3  00:37.59
+39748  java    9.4   00:47.05
+39751  java    5.7   00:26.57
+39755  java    10.5  01:05.75
+Processes: 559 total, 5 running, 554 sleeping, 3621 threads 
+2021/07/13 20:02:45
+Load Avg: 4.01, 3.13, 2.55 
+CPU usage: 14.67% user, 7.66% sys, 77.65% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3490M wired), 73M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868191014(17010) swapins, 1885479298(38302) swapouts.
+Networks: packets: 98326977/71G in, 132959356/49G out.
+Disks: 96560839/8176G read, 91791416/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    7.0   00:37.22
+39745  java    62.7  01:05.32
+39747  java    6.6   00:37.67
+39748  java    5.6   00:47.12
+39751  java    2.2   00:26.59
+39755  java    6.9   01:05.83
+Processes: 559 total, 4 running, 2 stuck, 553 sleeping, 3628 threads 
+2021/07/13 20:02:46
+Load Avg: 4.01, 3.13, 2.55 
+CPU usage: 9.13% user, 18.27% sys, 72.58% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3484M wired), 188M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868244221(53207) swapins, 1885491176(11878) swapouts.
+Networks: packets: 98327770/71G in, 132960135/49G out.
+Disks: 96562223/8177G read, 91791750/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.2   00:37.27
+39745  java    11.7  01:05.46
+39747  java    4.5   00:37.72
+39748  java    5.3   00:47.18
+39751  java    5.5   00:26.65
+39755  java    8.1   01:05.93
+Processes: 559 total, 4 running, 555 sleeping, 3629 threads 
+2021/07/13 20:02:47
+Load Avg: 4.09, 3.16, 2.57 
+CPU usage: 13.32% user, 6.80% sys, 79.86% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3468M wired), 523M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868257714(13493) swapins, 1885566456(75280) swapouts.
+Networks: packets: 98328512/71G in, 132960878/49G out.
+Disks: 96562460/8177G read, 91793364/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.4   00:37.31
+39745  java    3.5   01:05.50
+39747  java    7.5   00:37.81
+39748  java    7.3   00:47.26
+39751  java    2.6   00:26.68
+39755  java    94.5  01:07.00
+Processes: 559 total, 4 running, 555 sleeping, 3623 threads 
+2021/07/13 20:02:48
+Load Avg: 4.09, 3.16, 2.57 
+CPU usage: 18.64% user, 3.41% sys, 77.93% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3468M wired), 624M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868263197(5483) swapins, 1885566456(0) swapouts.
+Networks: packets: 98329465/71G in, 132961817/49G out.
+Disks: 96562563/8177G read, 91793394/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    20.0  00:37.54
+39745  java    5.9   01:05.57
+39747  java    4.6   00:37.86
+39748  java    8.6   00:47.36
+39751  java    5.6   00:26.75
+39755  java    157.1 01:08.78
+Processes: 559 total, 6 running, 553 sleeping, 3581 threads 
+2021/07/13 20:02:49
+Load Avg: 4.09, 3.16, 2.57 
+CPU usage: 14.38% user, 3.67% sys, 81.94% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3463M wired), 657M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868264726(1529) swapins, 1885566456(0) swapouts.
+Networks: packets: 98330246/71G in, 132962598/49G out.
+Disks: 96562591/8177G read, 91793427/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.1   00:37.59
+39745  java    7.1   01:05.65
+39747  java    15.3  00:38.03
+39748  java    9.3   00:47.46
+39751  java    12.2  00:26.89
+39755  java    109.2 01:10.00
+Processes: 559 total, 3 running, 1 stuck, 555 sleeping, 3563 threads 
+2021/07/13 20:02:51
+Load Avg: 4.09, 3.16, 2.57 
+CPU usage: 17.91% user, 2.92% sys, 79.16% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3463M wired), 633M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868268494(3768) swapins, 1885566456(0) swapouts.
+Networks: packets: 98331082/71G in, 132963534/49G out.
+Disks: 96562656/8177G read, 91793461/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    9.0   00:37.69
+39745  java    7.1   01:05.73
+39747  java    22.4  00:38.28
+39748  java    11.5  00:47.59
+39751  java    6.7   00:26.96
+39755  java    127.9 01:11.43
+Processes: 559 total, 4 running, 555 sleeping, 3555 threads 
+2021/07/13 20:02:52
+Load Avg: 4.08, 3.17, 2.58 
+CPU usage: 8.91% user, 4.12% sys, 86.95% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3463M wired), 621M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868269197(703) swapins, 1885566456(0) swapouts.
+Networks: packets: 98331829/71G in, 132964280/49G out.
+Disks: 96562671/8177G read, 91793489/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    10.6  00:37.82
+39745  java    8.7   01:05.83
+39747  java    4.3   00:38.34
+39748  java    8.6   00:47.70
+39751  java    2.2   00:26.99
+39755  java    14.1  01:11.60
+Processes: 559 total, 4 running, 555 sleeping, 3559 threads 
+2021/07/13 20:02:53
+Load Avg: 4.08, 3.17, 2.58 
+CPU usage: 19.42% user, 3.40% sys, 77.16% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3463M wired), 597M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868271178(1981) swapins, 1885566456(0) swapouts.
+Networks: packets: 98332839/71G in, 132965290/49G out.
+Disks: 96562709/8177G read, 91793515/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    13.9  00:37.97
+39745  java    12.0  01:05.97
+39747  java    12.2  00:38.47
+39748  java    9.8   00:47.81
+39751  java    15.1  00:27.16
+39755  java    150.2 01:13.29
+Processes: 559 total, 6 running, 553 sleeping, 3563 threads 
+2021/07/13 20:02:54
+Load Avg: 4.08, 3.17, 2.58 
+CPU usage: 23.0% user, 5.30% sys, 71.69% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3463M wired), 516M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868282105(10927) swapins, 1885566456(0) swapouts.
+Networks: packets: 98333563/71G in, 132966014/49G out.
+Disks: 96562903/8177G read, 91793686/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.0   00:38.02
+39745  java    6.7   01:06.05
+39747  java    5.7   00:38.54
+39748  java    68.1  00:48.58
+39751  java    55.2  00:27.78
+39755  java    105.2 01:14.48
+Processes: 559 total, 6 running, 1 stuck, 552 sleeping, 3558 threads 
+2021/07/13 20:02:55
+Load Avg: 4.08, 3.17, 2.58 
+CPU usage: 12.99% user, 4.15% sys, 82.85% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671210 total, 8932M resident, 65M private, 1174M shared.
+PhysMem: 15G used (3463M wired), 539M unused.
+VM: 4610G vsize, 2305M framework vsize, 1868283766(1661) swapins, 1885566456(0) swapouts.
+Networks: packets: 98334299/71G in, 132966750/49G out.
+Disks: 96562967/8177G read, 91793782/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.9   00:38.08
+39745  java    9.0   01:06.15
+39747  java    3.9   00:38.58
+39748  java    5.3   00:48.63
+39751  java    33.9  00:28.16
+39755  java    19.9  01:14.70
+Processes: 560 total, 4 running, 1 stuck, 555 sleeping, 3575 threads 
+2021/07/13 20:02:56
+Load Avg: 3.99, 3.17, 2.58 
+CPU usage: 13.3% user, 2.97% sys, 83.99% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3463M wired), 503M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868285939(2173) swapins, 1885566456(0) swapouts.
+Networks: packets: 98335055/71G in, 132967525/49G out.
+Disks: 96563027/8177G read, 91793810/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.2   00:38.11
+39745  java    36.3  01:06.55
+39747  java    4.1   00:38.63
+39748  java    4.1   00:48.68
+39751  java    8.0   00:28.25
+39755  java    29.3  01:15.03
+Processes: 560 total, 6 running, 554 sleeping, 3578 threads 
+2021/07/13 20:02:57
+Load Avg: 3.99, 3.17, 2.58 
+CPU usage: 17.48% user, 3.30% sys, 79.20% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3463M wired), 506M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868287475(1536) swapins, 1885566456(0) swapouts.
+Networks: packets: 98335976/71G in, 132968445/49G out.
+Disks: 96563059/8177G read, 91793836/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    6.8   00:38.19
+39745  java    30.2  01:06.89
+39747  java    6.0   00:38.69
+39748  java    4.4   00:48.73
+39751  java    8.2   00:28.34
+39755  java    73.1  01:15.84
+Processes: 560 total, 4 running, 556 sleeping, 3572 threads 
+2021/07/13 20:02:59
+Load Avg: 3.99, 3.17, 2.58 
+CPU usage: 6.11% user, 3.46% sys, 90.42% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3463M wired), 500M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868288816(1341) swapins, 1885566456(0) swapouts.
+Networks: packets: 98336806/71G in, 132969273/49G out.
+Disks: 96563084/8177G read, 91793866/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    12.7  00:38.33
+39745  java    2.9   01:06.93
+39747  java    6.8   00:38.77
+39748  java    3.7   00:48.77
+39751  java    6.7   00:28.42
+39755  java    20.3  01:16.08
+Processes: 560 total, 3 running, 557 sleeping, 3574 threads 
+2021/07/13 20:03:00
+Load Avg: 3.99, 3.17, 2.58 
+CPU usage: 5.24% user, 3.10% sys, 91.64% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3438M wired), 497M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868289198(382) swapins, 1885566456(0) swapouts.
+Networks: packets: 98337607/71G in, 132970074/49G out.
+Disks: 96563091/8177G read, 91793896/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    5.6   00:38.40
+39745  java    3.0   01:06.96
+39747  java    3.8   00:38.82
+39748  java    3.8   00:48.82
+39751  java    18.7  00:28.63
+39755  java    7.5   01:16.16
+Processes: 560 total, 4 running, 556 sleeping, 3569 threads 
+2021/07/13 20:03:01
+Load Avg: 3.99, 3.17, 2.58 
+CPU usage: 5.57% user, 4.6% sys, 90.36% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3438M wired), 491M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868290665(1467) swapins, 1885566456(0) swapouts.
+Networks: packets: 98338355/71G in, 132970822/49G out.
+Disks: 96563125/8177G read, 91793924/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.1   00:38.43
+39745  java    7.4   01:07.04
+39747  java    4.4   00:38.87
+39748  java    4.2   00:48.86
+39751  java    3.5   00:28.67
+39755  java    15.9  01:16.34
+Processes: 560 total, 5 running, 555 sleeping, 3561 threads 
+2021/07/13 20:03:02
+Load Avg: 3.67, 3.12, 2.56 
+CPU usage: 4.9% user, 3.20% sys, 92.69% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3438M wired), 483M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868292324(1659) swapins, 1885566456(0) swapouts.
+Networks: packets: 98339191/71G in, 132971654/49G out.
+Disks: 96563156/8177G read, 91793958/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.3   00:38.47
+39745  java    3.8   01:07.09
+39747  java    3.9   00:38.91
+39748  java    4.2   00:48.91
+39751  java    2.9   00:28.70
+39755  java    7.5   01:16.43
+Processes: 560 total, 5 running, 555 sleeping, 3566 threads 
+2021/07/13 20:03:03
+Load Avg: 3.67, 3.12, 2.56 
+CPU usage: 13.91% user, 4.14% sys, 81.93% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3438M wired), 472M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868293847(1523) swapins, 1885566456(0) swapouts.
+Networks: packets: 98340222/71G in, 132972684/49G out.
+Disks: 96563184/8177G read, 91793989/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    11.2  00:38.61
+39745  java    3.4   01:07.13
+39747  java    4.4   00:38.97
+39748  java    8.6   00:49.02
+39751  java    6.3   00:28.78
+39755  java    112.2 01:17.84
+Processes: 560 total, 3 running, 557 sleeping, 3567 threads 
+2021/07/13 20:03:04
+Load Avg: 3.67, 3.12, 2.56 
+CPU usage: 14.29% user, 3.27% sys, 82.42% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3426M wired), 451M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868296589(2742) swapins, 1885566456(0) swapouts.
+Networks: packets: 98340965/71G in, 132973422/49G out.
+Disks: 96563251/8177G read, 91794027/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.8   00:38.65
+39745  java    3.4   01:07.17
+39747  java    8.4   00:39.06
+39748  java    4.5   00:49.07
+39751  java    1.8   00:28.80
+39755  java    80.0  01:18.73
+Processes: 560 total, 4 running, 556 sleeping, 3570 threads 
+2021/07/13 20:03:05
+Load Avg: 3.67, 3.12, 2.56 
+CPU usage: 6.54% user, 5.42% sys, 88.2% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 223M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868348868(52279) swapins, 1885566456(0) swapouts.
+Networks: packets: 98341786/71G in, 132974346/49G out.
+Disks: 96564183/8177G read, 91794493/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.4   00:38.69
+39745  java    3.6   01:07.21
+39747  java    6.5   00:39.13
+39748  java    4.7   00:49.12
+39751  java    7.7   00:28.89
+39755  java    6.6   01:18.80
+Processes: 560 total, 3 running, 557 sleeping, 3565 threads 
+2021/07/13 20:03:07
+Load Avg: 3.46, 3.08, 2.55 
+CPU usage: 5.32% user, 3.10% sys, 91.56% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 218M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868349636(768) swapins, 1885566456(0) swapouts.
+Networks: packets: 98342528/71G in, 132975087/49G out.
+Disks: 96564195/8177G read, 91794523/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    13.6  00:38.84
+39745  java    3.1   01:07.25
+39747  java    6.5   00:39.21
+39748  java    9.5   00:49.23
+39751  java    2.1   00:28.91
+39755  java    6.4   01:18.87
+Processes: 560 total, 4 running, 556 sleeping, 3566 threads 
+2021/07/13 20:03:08
+Load Avg: 3.46, 3.08, 2.55 
+CPU usage: 9.74% user, 3.14% sys, 87.10% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 211M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868350975(1339) swapins, 1885566456(0) swapouts.
+Networks: packets: 98343513/71G in, 132976071/49G out.
+Disks: 96564223/8177G read, 91794550/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    9.9   00:38.96
+39745  java    3.1   01:07.28
+39747  java    11.8  00:39.34
+39748  java    12.3  00:49.37
+39751  java    5.6   00:28.98
+39755  java    58.8  01:19.54
+Processes: 560 total, 3 running, 557 sleeping, 3570 threads 
+2021/07/13 20:03:09
+Load Avg: 3.46, 3.08, 2.55 
+CPU usage: 4.89% user, 3.99% sys, 91.10% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 207M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868352312(1337) swapins, 1885566456(0) swapouts.
+Networks: packets: 98344256/71G in, 132976814/49G out.
+Disks: 96564254/8177G read, 91794579/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    3.2   00:38.99
+39745  java    3.1   01:07.32
+39747  java    11.5  00:39.47
+39748  java    10.7  00:49.49
+39751  java    2.0   00:29.00
+39755  java    6.2   01:19.61
+Processes: 560 total, 3 running, 557 sleeping, 3588 threads 
+2021/07/13 20:03:10
+Load Avg: 3.46, 3.08, 2.55 
+CPU usage: 5.44% user, 5.0% sys, 89.55% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 199M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868354160(1848) swapins, 1885566456(0) swapouts.
+Networks: packets: 98345028/71G in, 132977587/49G out.
+Disks: 96564294/8177G read, 91794691/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    4.6   00:39.04
+39745  java    8.8   01:07.41
+39747  java    8.6   00:39.56
+39748  java    10.4  00:49.61
+39751  java    2.2   00:29.02
+39755  java    11.4  01:19.73
+Processes: 560 total, 3 running, 557 sleeping, 3548 threads 
+2021/07/13 20:03:11
+Load Avg: 3.46, 3.08, 2.55 
+CPU usage: 6.19% user, 4.40% sys, 89.40% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 671268 total, 8933M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 194M unused.
+VM: 4614G vsize, 2305M framework vsize, 1868356845(2685) swapins, 1885566456(0) swapouts.
+Networks: packets: 98345687/71G in, 132978244/49G out.
+Disks: 96564350/8177G read, 91794873/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    2.9   00:39.08
+39745  java    18.8  01:07.62
+39747  java    18.1  00:39.77
+39748  java    4.4   00:49.66
+39751  java    1.9   00:29.05
+39755  java    5.7   01:19.80
+Processes: 559 total, 4 running, 555 sleeping, 3528 threads 
+2021/07/13 20:03:12
+Load Avg: 3.42, 3.08, 2.56 
+CPU usage: 3.42% user, 6.77% sys, 89.80% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3421M wired), 435M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868365453(8608) swapins, 1885566456(0) swapouts.
+Networks: packets: 98345714/71G in, 132978271/49G out.
+Disks: 96564631/8177G read, 91794987/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.08
+39745  java    0.0   01:07.62
+39747  java    0.1   00:39.77
+39748  java    0.3   00:49.66
+39751  java    0.0   00:29.05
+39755  java    0.5   01:19.80
+Processes: 559 total, 2 running, 557 sleeping, 3521 threads 
+2021/07/13 20:03:13
+Load Avg: 3.42, 3.08, 2.56 
+CPU usage: 7.47% user, 2.81% sys, 89.71% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3421M wired), 427M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868366408(955) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346005/71G in, 132978562/49G out.
+Disks: 96564649/8177G read, 91795166/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.4   00:39.17
+39745  java    0.0   01:07.62
+39747  java    0.1   00:39.77
+39748  java    0.0   00:49.66
+39751  java    7.6   00:29.13
+39755  java    60.0  01:20.48
+Processes: 559 total, 3 running, 556 sleeping, 3512 threads 
+2021/07/13 20:03:14
+Load Avg: 3.42, 3.08, 2.56 
+CPU usage: 3.23% user, 4.77% sys, 91.99% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3421M wired), 374M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868373575(7167) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346021/71G in, 132978580/49G out.
+Disks: 96564774/8177G read, 91795169/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.17
+39745  java    0.0   01:07.63
+39747  java    1.0   00:39.78
+39748  java    0.0   00:49.66
+39751  java    0.1   00:29.13
+39755  java    0.1   01:20.48
+Processes: 559 total, 3 running, 556 sleeping, 3508 threads 
+2021/07/13 20:03:16
+Load Avg: 3.42, 3.08, 2.56 
+CPU usage: 3.57% user, 3.28% sys, 93.13% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3421M wired), 240M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868374917(1342) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346054/71G in, 132978756/49G out.
+Disks: 96564798/8177G read, 91795171/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.18
+39745  java    0.6   01:07.63
+39747  java    0.1   00:39.78
+39748  java    0.1   00:49.66
+39751  java    0.1   00:29.14
+39755  java    0.0   01:20.48
+Processes: 559 total, 3 running, 1 stuck, 555 sleeping, 3509 threads 
+2021/07/13 20:03:17
+Load Avg: 3.39, 3.08, 2.56 
+CPU usage: 4.30% user, 4.23% sys, 91.45% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3422M wired), 257M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868375748(831) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346074/71G in, 132978776/49G out.
+Disks: 96564812/8177G read, 91795241/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.18
+39745  java    0.0   01:07.63
+39747  java    0.1   00:39.79
+39748  java    7.1   00:49.74
+39751  java    0.1   00:29.14
+39755  java    0.0   01:20.48
+Processes: 559 total, 4 running, 555 sleeping, 3597 threads 
+2021/07/13 20:03:18
+Load Avg: 3.39, 3.08, 2.56 
+CPU usage: 13.46% user, 6.32% sys, 80.20% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3483M wired), 315M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868383132(7384) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346331/71G in, 132979033/49G out.
+Disks: 96564957/8177G read, 91795242/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    8.3   00:39.27
+39745  java    0.0   01:07.64
+39747  java    0.0   00:39.79
+39748  java    0.0   00:49.74
+39751  java    5.6   00:29.20
+39755  java    54.8  01:21.10
+Processes: 559 total, 3 running, 556 sleeping, 3601 threads 
+2021/07/13 20:03:19
+Load Avg: 3.39, 3.08, 2.56 
+CPU usage: 3.58% user, 3.81% sys, 92.60% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3465M wired), 334M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868383260(128) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346349/71G in, 132979051/49G out.
+Disks: 96564959/8177G read, 91795246/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.27
+39745  java    0.0   01:07.64
+39747  java    0.3   00:39.79
+39748  java    0.1   00:49.74
+39751  java    0.1   00:29.20
+39755  java    0.0   01:21.10
+Processes: 559 total, 2 running, 557 sleeping, 3602 threads 
+2021/07/13 20:03:20
+Load Avg: 3.39, 3.08, 2.56 
+CPU usage: 2.96% user, 3.63% sys, 93.39% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3471M wired), 332M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868383771(511) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346368/71G in, 132979068/49G out.
+Disks: 96564970/8177G read, 91795357/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.27
+39745  java    0.0   01:07.64
+39747  java    0.1   00:39.79
+39748  java    0.1   00:49.75
+39751  java    0.1   00:29.21
+39755  java    0.0   01:21.10
+Processes: 559 total, 2 running, 557 sleeping, 3598 threads 
+2021/07/13 20:03:21
+Load Avg: 3.39, 3.08, 2.56 
+CPU usage: 2.99% user, 3.87% sys, 93.13% idle 
+SharedLibs: 362M resident, 50M data, 30M linkedit.
+MemRegions: 670646 total, 8795M resident, 65M private, 1174M shared.
+PhysMem: 16G used (3459M wired), 339M unused.
+VM: 4604G vsize, 2305M framework vsize, 1868384155(384) swapins, 1885566456(0) swapouts.
+Networks: packets: 98346389/71G in, 132979089/49G out.
+Disks: 96564978/8177G read, 91795366/7873G written.
+
+PID    COMMAND %CPU  TIME    
+39739  java    0.1   00:39.28
+39745  java    0.4   01:07.64
+39747  java    0.1   00:39.79
+39748  java    0.1   00:49.75
+39751  java    0.1   00:29.21
+39755  java    0.0   01:21.10

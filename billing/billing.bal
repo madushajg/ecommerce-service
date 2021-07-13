@@ -19,5 +19,6 @@ service /Billing on new http:Listener(8082) {
         string receiptNumber = uuid:createType1AsString();
         log:printDebug("receiptNumber created", receiptNumber = receiptNumber);
         check caller->respond(receiptNumber);
+        log:printInfo("Billing - OrderId: " + payment.orderId + " ReceiptNumber: " + receiptNumber);
     }
 }

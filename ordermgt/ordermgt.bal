@@ -21,6 +21,7 @@ service /OrderMgt on new http:Listener(8081) {
             orderMap[orderId] = o.clone();
         }
         check caller->respond(orderId);
+        log:printInfo("OrderMgt - OrderId: " + orderId + " AccountId: " + o.accountId.toString());
     }
 
     isolated resource function get 'order/[string orderId](http:Caller caller, http:Request request) returns error? {

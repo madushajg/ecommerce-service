@@ -4,4 +4,9 @@ name = "commons"
 version = "0.1.0"
 repository = "local"
 
+[[dependency]]
+org = "ballerinax"
+name = "prometheus"
+version = "0.1.8"
+
 
