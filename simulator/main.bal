@@ -21,11 +21,11 @@ public function doSession(int accountId, boolean doError1, boolean doError2) ret
     int id2 = d.id;
     x:Item item1 = { invId: id1, quantity: 5 };
     x:Item item2 = { invId: id2, quantity: 10 };
-    _ = check adminClient->post("/cartitems/" + accountId.toString(), item1.toJson(), targetType=http:Response);
-    _ = check adminClient->post("/cartitems/" + accountId.toString(), item2.toJson(), targetType=http:Response);
+    _ = check adminClient->post("/cartitems/" + accountId.toString(), item1.toJson(), {"Content-Type": "application/json"}, targetType=http:Response);
+    _ = check adminClient->post("/cartitems/" + accountId.toString(), item2.toJson(), {"Content-Type": "application/json"}, targetType=http:Response);
     if doError1 {
         // try to add the same item again
-        _ = check adminClient->post("/cartitems/" + accountId.toString(), item2.toJson(), targetType=http:Response);
+        _ = check adminClient->post("/cartitems/" + accountId.toString(), item2.toJson(), {"Content-Type": "application/json"}, targetType=http:Response);
     }
     string s = check adminClient->get("/checkout/" + accountId.toString(), targetType = string);
     if doError2 {

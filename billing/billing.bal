@@ -7,15 +7,16 @@ final http:Client orderMgtClient = check new("http://localhost:8081/OrderMgt");
 
 service /Billing on new http:Listener(8082) {
 
-    resource function post payment(http:Caller caller, http:Request request) returns error? {
-        string payment = check <string|error> request.getQueryParamValue("payment");
-        json j = payment.toJson();
-        string orderId = <string> check j.orderId;
-        http:Response resp = check orderMgtClient->get("/order/" + orderId);
+    @http:ResourceConfig {
+        consumes: ["application/json"]
+    }
+    resource function post payment(http:Caller caller, @http:Payload x:Payment payment) returns error? {
+        log:printInfo("Reached post payment", payment = payment);
+        http:Response resp = check orderMgtClient->get("/order/" + payment.orderId);
         json payload = check resp.getJsonPayload();
         x:Order 'order = check payload.cloneWithType(x:Order);
         string receiptNumber = uuid:createType1AsString();
+        log:printInfo("receiptNumber created", receiptNumber = receiptNumber);
         check caller->respond(receiptNumber);
-        log:printInfo("Billing - OrderId: " + orderId + " ReceiptNumber: " + receiptNumber);
     }
 }
