@@ -33,7 +33,9 @@ service /Admin on ep {
         log:printInfo("Reached get checkout", accountId = accountId);
         http:Response resp = check cartClient->get("/items/" + accountId.toString());
         json j = check resp.getJsonPayload();
+        log:printInfo("payload from get cart", payload = j);
         x:Items items = check j.cloneWithType(x:Items);
+        log:printInfo("items from get cart", items = items.toString());
         if items.length() == 0 {
             http:Response respx = new;
             respx.statusCode = 400;

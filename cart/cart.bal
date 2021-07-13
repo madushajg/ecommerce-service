@@ -31,14 +31,19 @@ service /ShoppingCart on new http:Listener(8080) {
         int quantity = 0;
 
         error? e = itemStream.forEach(function(x:Item item) {
+            log:printInfo("Streaming items", invId = item.invId, quantity = item.quantity);
             invId = item.invId;
             quantity = item.quantity;
             j.push({invId: invId, quantity: quantity});
         });
 
+        log:printInfo("Payload to be sent", payload = j);
+
         check itemStream.close();
 
-        check caller->respond(j);
+        log:printInfo("Closed the itemStream");
+
+        check caller->respond({"items":j});
     }
 
     resource function delete items/[string accountId](http:Caller caller, http:Request request) returns error? {
