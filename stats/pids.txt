@@ -1,8 +1,0 @@
-39745 ordermgt.jar
-39747 billing.jar
-39748 shipping.jar
-39751 inventory.jar
-39991 Jps
-39739 cart.jar
-39755 admin.jar
-22061 Main
