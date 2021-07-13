@@ -2,6 +2,7 @@ import ballerina/http;
 import ballerina/uuid;
 import ballerina/log;
 import madusha/commons as x;
+import ballerinax/prometheus as _;
 
 isolated map<x:Order> orderMap = {};
 

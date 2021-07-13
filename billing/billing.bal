@@ -2,6 +2,7 @@ import ballerina/http;
 import ballerina/uuid;
 import ballerina/log;
 import madusha/commons as x;
+import ballerinax/prometheus as _;
 
 final http:Client orderMgtClient = check new("http://localhost:8081/OrderMgt");
 

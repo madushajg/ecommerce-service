@@ -3,6 +3,7 @@ import madusha/commons as x;
 import ballerinax/java.jdbc;
 import ballerina/sql;
 import ballerina/log;
+import ballerinax/prometheus as _;
 
 final jdbc:Client dbClient = check new (url =  "jdbc:mysql://localhost:3306/ECOM_DB?serverTimezone=UTC", 
                                         user = "root",

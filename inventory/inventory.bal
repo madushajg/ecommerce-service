@@ -1,8 +1,8 @@
 import ballerina/http;
 import ballerinax/java.jdbc;
 import madusha/commons as x;
-import ballerina/io;
 import ballerina/log;
+import ballerinax/prometheus as _;
 
 type Value record {
     x:Description value;
@@ -26,7 +26,6 @@ service /Inventory on new http:Listener(8084) {
 
         json jj = <json> check resultStream.next();
         Value v = check jj.fromJsonWithType(Value);
-        io:println("Full inventory details: ", v.value);
 
         check resultStream.close();
 
