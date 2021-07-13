@@ -2,7 +2,6 @@ import ballerina/http;
 import ballerinax/java.jdbc;
 import madusha/commons as x;
 import ballerina/log;
-import ballerinax/prometheus as _;
 
 type Value record {
     x:Description value;

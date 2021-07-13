@@ -1,7 +1,6 @@
 import ballerina/http;
 import madusha/commons as x;
 import ballerina/log;
-import ballerinax/prometheus as _;
 
 final http:Client cartClient = check new("http://localhost:8080/ShoppingCart");
 final http:Client orderMgtClient = check new("http://localhost:8081/OrderMgt");
