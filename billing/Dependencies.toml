@@ -7,6 +7,6 @@ repository = "local"
 [[dependency]]
 org = "ballerinax"
 name = "prometheus"
-version = "0.1.8"
+version = "0.1.9"
 
 
